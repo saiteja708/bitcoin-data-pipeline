@@ -19,5 +19,5 @@ API → Data Cleaning → CSV → Visualization → Dashboard
 - 5 charts (stored in visuals folder)
 - Power BI dashboard
 
-## 📁 Project Structure
+
 
